@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1326214064 source:c:\users\arsenalzlh\desktop\one-d fdm\bseq.cpp
+	"BSEq.h"
+	<cmath>
+
+1326214064 c:\users\arsenalzlh\desktop\one-d fdm\bseq.h
+	"ParabPDE.h"
+	"BSModel01.h"
+	"Option.h"
+
+1326214064 c:\users\arsenalzlh\desktop\one-d fdm\parabpde.h
+
+1596159438 c:\users\arsenalzlh\desktop\one-d fdm\bsmodel01.h
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1596697936 c:\users\arsenalzlh\desktop\one-d fdm\option.h
+	"BSModel01.h"
+
+1596160495 source:c:\users\arsenalzlh\desktop\one-d fdm\explicitmethod.cpp
+	"ExplicitMethod.h"
+
+1596160495 c:\users\arsenalzlh\desktop\one-d fdm\explicitmethod.h
+	"FDMethod.h"
+
+1326214064 c:\users\arsenalzlh\desktop\one-d fdm\fdmethod.h
+	<vector>
+	"ParabPDE.h"
+
+1326214062 source:c:\users\arsenalzlh\desktop\one-d fdm\fdmethod.cpp
+	"FDMethod.h"
+
+1326214064 source:c:\users\arsenalzlh\desktop\one-d fdm\implicitscheme.cpp
+	"ImplicitScheme.h"
+	"Matrix.h"
+	<cmath>
+
+1596171723 c:\users\arsenalzlh\desktop\one-d fdm\implicitscheme.h
+	"FDMethod.h"
+	"Matrix.h"
+
+1326214060 c:\users\arsenalzlh\desktop\one-d fdm\matrix.h
+	<vector>
+
+1326214060 source:c:\users\arsenalzlh\desktop\one-d fdm\matrix.cpp
+	"Matrix.h"
+	<cmath>
+
+1596176525 source:c:\users\arsenalzlh\desktop\one-d fdm\option.cpp
+	"Option.h"
+	<cmath>
+
+1596159188 source:c:\users\arsenalzlh\desktop\one-d fdm\bsmodel01.cpp
+	"BSModel01.h"
+	<cmath>
+
+1596159790 source:c:\users\arsenalzlh\desktop\one-d fdm\putoption.cpp
+	"PutOption.h"
+	<cmath>
+
+1596159790 c:\users\arsenalzlh\desktop\one-d fdm\putoption.h
+	"BSModel01.h"
+
+1596171422 source:c:\users\arsenalzlh\desktop\one-d fdm\cnmethod.cpp
+	"CNMethod.h"
+	<cmath>
+
+1596171394 c:\users\arsenalzlh\desktop\one-d fdm\cnmethod.h
+	"ImplicitScheme.h"
+
+1596202921 source:c:\users\arsenalzlh\desktop\one-d fdm\main.cpp
+	<iostream>
+	"BSModel01.h"
+	"Option.h"
+	"BSEq.h"
+	"ExplicitMethod.h"
+	"Matrix.h"
+	"ImplicitScheme.h"
+	"CNMethod.h"
+	"ImplicitMethod.h"
+
+1596172738 source:c:\users\arsenalzlh\desktop\one-d fdm\implicitmethod.cpp
+	"ImplicitMethod.h"
+	<cmath>
+
+1596172692 c:\users\arsenalzlh\desktop\one-d fdm\implicitmethod.h
+	"ImplicitScheme.h"
+
